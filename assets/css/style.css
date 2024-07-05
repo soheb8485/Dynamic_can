@@ -2440,7 +2440,7 @@ span.ruby-c-content {
   height: 340px;
   aspect-ratio: 2 / 4;
   background-blend-mode: multiply;
-  mask-image: url('/assets/img/soda.png');
+  mask-image: url('/Dynamic_can/assets/img/soda.png');
   mask-size: 100%;
   transition: background-position 0.7s;
   background-position: var(--left) 0, center;
